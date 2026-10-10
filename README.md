@@ -1,5 +1,7 @@
 # this is not mine all credits go to the developers i just cloned because if it goes down it'd be nice to keep it
 
+^^ shoutout to 396abc for cloning this i just have a fixed version of SkyVR as the one he cloned is old.
+
 made with <3, by presidentanvil || https://skyvr.loadlua.xyz
 
 ```lua
@@ -9,5 +11,5 @@ skyvrversion = '3.0.0'
 VR_Model_Customization_GUI = game:GetObjects("rbxassetid://93922799482853")[1]
 VR_Model_Customization_GUI.Parent = game.CoreGui
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/skyvr/main/VRCustomizationMain.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NorfolkAU/skyvr-archive/main/VRCustomizationMain.lua"))()
 ```
