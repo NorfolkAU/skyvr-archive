@@ -1,4 +1,4 @@
-# this is not mine all credits go to the developers i just cloned because if it goes down it'd be nice to keep it
+# This is NOT my script, this is an archive of PresidentAnvil's SkyVR script that was deleted.
 
 ^^ shoutout to 396abc for cloning this i just have a fixed version of SkyVR as the one he cloned is old.
 
