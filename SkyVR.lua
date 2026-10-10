@@ -1,5 +1,15 @@
-
 -- sky vr
+
+isnetworkowner = function(v)
+    local success, result = pcall(function()
+        return v.ReceiveAge == 0 and not v.NetworkIsSleeping
+    end)
+    if success then
+        return result
+    else
+        return true  -- Fallback: assume ownership if hidden properties are inaccessible
+    end
+end
 
 local loader = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
