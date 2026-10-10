@@ -1,5 +1,5 @@
 if getgenv().HATDROP then loadstring(game:HttpGet("https://raw.githubusercontent.com/NorfolkAU/skyvr-archive/main/SkyVRFullbodyHatdrop.lua"))() end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/HatdropReanimation/main/Valuable%20Dependencies/thething.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PresidentAnvil/HatdropReanimation/main/Valuable%20Dependencies/thething.lua"))()
 local StudsOffset = 0.1
 local ChatEnabled = true
 local ChatLocalRange = 70
